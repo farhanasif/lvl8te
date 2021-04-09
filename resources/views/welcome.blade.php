@@ -14,7 +14,7 @@
 
     </head>
     <body class="antialiased">
-        <div id="example"></div>
+        <div id="index"></div>
         <script type="text/javascript" src="/js/app.js"></script>
     </body>
 </html>
