@@ -12,7 +12,7 @@ function Index() {
                         <tr>
                             <th>#</th>
                             <th>Name</th>
-                            <th>Description</th>
+                            <th>test</th>
                             <th>Actions</th>
                         </tr>
                     </thead>
